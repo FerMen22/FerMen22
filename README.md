@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">I am a student in the computer science degree at UNAM, Freelance web developer.</p>
+<h2 align="left">I am a student in the computer science degree at UNAM, Freelance web developer.</h2>
 
 ###
 
 <div align="center">
-  <img width="1000" src="https://lh4.googleusercontent.com/proxy/meLZJv1TAEa1B7-3Hkeuvt9ABOAHugK-CEi8CNSEjWv5TPfIBC7ZaLuAagx1MhR8WQmdwV0tFlAqo-M0sRdcVQLDgNmjhx4Ozctq" />
+  <img width="900" src="https://lh4.googleusercontent.com/proxy/meLZJv1TAEa1B7-3Hkeuvt9ABOAHugK-CEi8CNSEjWv5TPfIBC7ZaLuAagx1MhR8WQmdwV0tFlAqo-M0sRdcVQLDgNmjhx4Ozctq" />
 </div>
 
 
