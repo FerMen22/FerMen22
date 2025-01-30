@@ -7,8 +7,9 @@
 ###
 
 <div align="center">
-  <img width="900" src="https://lh4.googleusercontent.com/proxy/meLZJv1TAEa1B7-3Hkeuvt9ABOAHugK-CEi8CNSEjWv5TPfIBC7ZaLuAagx1MhR8WQmdwV0tFlAqo-M0sRdcVQLDgNmjhx4Ozctq" />
+  <img height="226" width="800" src="https://lh4.googleusercontent.com/proxy/meLZJv1TAEa1B7-3Hkeuvt9ABOAHugK-CEi8CNSEjWv5TPfIBC7ZaLuAagx1MhR8WQmdwV0tFlAqo-M0sRdcVQLDgNmjhx4Ozctq" />
 </div>
+
 
 
 ###
